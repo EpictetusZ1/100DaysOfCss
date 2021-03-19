@@ -6,3 +6,8 @@
   - If a tutorial was used it will be linked and credited in the project directory.
 
   - I don't intend to do all 100 days of the challenge. Just a handful to get more experience with CSS
+
+
+  ### Here are some of the results:
+  ##### Day 65:
+  ![Day 65 CSS animation](D65/D65Image.png? width=100)
