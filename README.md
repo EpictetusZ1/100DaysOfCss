@@ -1,6 +1,5 @@
-# Following along with '100 Days of CSS' challenges
+# A few of the '100 Days of CSS' challenges
 
-### The purpose of this repo is to keep track of my progress towards learning CSS
 
 #### Notes:
   - If a tutorial was used it will be linked and credited in the project directory.
